@@ -1,3 +1,4 @@
+// Main Activity file (small change for lab 8 step 2)
 package com.example.lab_8
 
 import android.os.Bundle
